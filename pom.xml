@@ -1,0 +1,11 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mmartin</groupId>
+  <artifactId>playground</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>rest-service-a</module>
+  </modules>
+</project>
